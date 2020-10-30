@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Game Project", "Assembly-CSharp.csproj", "{0C58B3EE-977A-F90D-0385-E22C953B7F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Game Project", "Assembly-CSharp-firstpass.csproj", "{202534D9-1123-0DF7-23A4-8FC97B0EAFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C58B3EE-977A-F90D-0385-E22C953B7F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C58B3EE-977A-F90D-0385-E22C953B7F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C58B3EE-977A-F90D-0385-E22C953B7F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C58B3EE-977A-F90D-0385-E22C953B7F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202534D9-1123-0DF7-23A4-8FC97B0EAFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202534D9-1123-0DF7-23A4-8FC97B0EAFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202534D9-1123-0DF7-23A4-8FC97B0EAFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202534D9-1123-0DF7-23A4-8FC97B0EAFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
